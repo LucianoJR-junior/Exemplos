@@ -3,7 +3,7 @@
    ========================================================= */
 
 // Número do WhatsApp da barbearia: código do país + DDD + número, só dígitos.
-const WHATSAPP_NUMERO = "5518991113395";
+const WHATSAPP_NUMERO = "559999999999";
 
 const NOME_LOJA = "Navalha & Cia";
 
